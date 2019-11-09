@@ -1,0 +1,30 @@
+.body {
+    font-family: Arial,sans-serif;
+}
+.ZingChart-week-song {
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid rgb(230, 226, 226);  
+}
+
+.ZingChart-week-song .number {
+    font-size: 20px;
+    padding : 0 8px;
+}
+
+.ZingChart-week-song .song-info {
+    font-size: 14px;
+    flex-grow: 1;
+}
+.ZingChart-week-song .song-title {
+    margin-bottom: 8px;
+}
+.ZingChart-week-song .singer {
+    font-size: 13px;
+    color:#999;
+}
+.ZingChart-week-song .view-count {
+    font-size: 13px;
+    color: #999;
+}

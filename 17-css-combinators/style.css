@@ -1,0 +1,23 @@
+/* .item {
+    color :red;
+}
+
+.list-2 > .item-1  .item{
+    color: blue;
+} */
+
+.list-1 > .item {
+    border: 1px solid ;
+}
+
+/* .list-1 .item2 + .item {
+    color: aqua;
+} 
+tim thang ae tiep theo cua tk item2 va chi chon 1 thang
+*/
+
+/* .list-2 .item1 ~ .item {
+    border: 1px solid #333;
+}
+tim tk item1 trong list-2 va lay tat  ca cac phan tu anh em tiep theo cua no
+*/

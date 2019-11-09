@@ -1,0 +1,18 @@
+.Header {
+    height: 100px;
+}
+.Sidebar {
+    float: left;
+    width: 20%;
+}
+.Main { 
+    margin-left: 20%;
+}
+.container::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.Footer {
+    height: 100px;
+}

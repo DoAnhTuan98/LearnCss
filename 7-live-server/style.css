@@ -1,0 +1,45 @@
+.list-item {
+    color: black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 5px;
+    background-color: aqua;
+}
+p {
+    text-align: center;
+    
+}
+
+.back-ground {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 40%, rgba(0,212,255,1) 100%);
+}
+.list-item-pattern {
+    background-image: url(./pattern.jpg);
+    background-size: 20%;
+    height: 100px;
+    color: white;
+    background-repeat: repeat; 
+}
+
+.list-item-image {
+    background-image: url(./moutain.jpg);
+    height: 100px;
+    color: crimson;
+    background-size: cover;
+    background-position: 0 -50px;       
+}
+.list-item-parallax {
+    background-image: url(./moutain.jpg);
+    height: 100px;
+    color: crimson;
+    background-size: cover;
+    background-position: 0 0px;
+    background-attachment: fixed; 
+}

@@ -1,0 +1,26 @@
+.demo-link:link {
+    color: blue;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.demo-link:hover {
+    color: black;
+    text-decoration: underline;
+}
+.demo-link:active {
+    color: red;
+}
+.demo-link:visited {
+    color: blueviolet;  
+}
+
+.button-link {
+    color: #f6f6f6;
+    text-decoration: none;
+    background: blue;
+    padding: 9px 20px;
+}
+
+.button-link:hover {
+    background-color: #21217c;
+}

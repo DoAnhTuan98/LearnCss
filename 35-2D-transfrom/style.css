@@ -1,0 +1,8 @@
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: #dddddd;
+    /* transform: translate(50px,50px); */
+    /* transform: rotate(45deg); */
+    transform: scale(2);
+}
